@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.DBUtility\bin\Debug\LMIS.DBUtility.dll
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.DBUtility\bin\Debug\LMIS.DBUtility.pdb
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.DBUtility\obj\Debug\LMIS.DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.DBUtility\obj\Debug\LMIS.DBUtility.dll
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.DBUtility\obj\Debug\LMIS.DBUtility.pdb

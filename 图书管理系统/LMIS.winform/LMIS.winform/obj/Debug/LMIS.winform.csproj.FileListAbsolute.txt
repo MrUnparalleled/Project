@@ -1,0 +1,69 @@
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\bin\Debug\LMIS.winform.exe.config
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\bin\Debug\LMIS.winform.exe
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\bin\Debug\LMIS.winform.pdb
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.frmAddBook.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.frmAddIdentity.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.frmAddPerson.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.frmAddType.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.frmAddUser.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.frmBook.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.frmBookIn.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.frmBookOut.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.frmBookQuery.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.frmIdentity.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.frmLogin.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.frmMain.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.frmModifyBook.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.frmModifyCode.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.frmModifyPerson.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.frmModifyType.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.frmModifyUser.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.frmPerson.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.frmPersonQuery.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.frmType.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.frmUser.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.exe
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.winform.pdb
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\bin\Debug\LMIS.DBUtility.dll
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\bin\Debug\LMIS.DBUtility.pdb
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmModifyIdentity.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmSitManage.resources
+C:\Users\Administrator\Desktop\C#\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmSeatMessage.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\bin\Debug\LMIS.Winform.exe.config
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.exe
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.pdb
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\bin\Debug\LMIS.Winform.exe
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\bin\Debug\LMIS.Winform.pdb
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\bin\Debug\LMIS.DBUtility.dll
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\bin\Debug\LMIS.DBUtility.pdb
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmAddBook.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmAddIdentity.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmAddPerson.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmAddType.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmAddUser.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmBook.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmBookIn.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmBookOut.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmBookQuery.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmIdentity.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmLogin.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmMain.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmModifyBook.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmModifyCode.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmModifyIdentity.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmModifyPerson.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmModifyType.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmModifyUser.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmPerson.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmPersonQuery.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmSeatMessage.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmSitManage.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmType.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmUser.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\1629210070 吴锦锋\LMIS.winform\LMIS.winform\obj\Debug\LMIS.Winform.frmSay.resources
